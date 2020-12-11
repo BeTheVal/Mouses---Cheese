@@ -84,6 +84,4 @@ socket.on('starCollected', function () {
 });
 
 
-server.listen(process.env.PORT, function () {
-  console.log(`Listening on ${server.address().process.env.PORT}`);
-});
+server.listen(process.env.PORT, '0.0.0.0');
