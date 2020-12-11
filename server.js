@@ -84,6 +84,6 @@ socket.on('starCollected', function () {
 });
 
 
-server.listen(8080, function () {
+server.listen(80, function () {
   console.log(`Listening on ${server.address().port}`);
 });
