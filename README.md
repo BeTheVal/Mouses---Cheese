@@ -8,7 +8,7 @@
   <p align="center">
     Take the cheese
     <br />
-    <a href="https://github.com/BeTheVal/Mouses---Cheese"><strong>Explora la documentación »</strong></a>
+    <a href="https://github.com/BeTheVal/Mouses---Cheese"><strong>Explore the documentation »</strong></a>
     <br />
     <br />
     <a href="https://game-mouse-and-cheese.herokuapp.com/">Demo</a>
