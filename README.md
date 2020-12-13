@@ -4,7 +4,7 @@
   <a href="https://github.com/BeTheVal/Mouses---Cheese/blob/main/Logo.png">
     <img src="/Logo.png" alt="Logo" width="300" height="300">
   </a>
-  <h3 align="center">LaboralCheck</h3>
+  <h3 align="center">Mouses & Cheese</h3>
   <p align="center">
     Take the cheese
     <br />
