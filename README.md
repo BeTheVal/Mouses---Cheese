@@ -34,7 +34,7 @@
 ## About the project
 
 Minigame created during the HLC course with the aim of gaining knowledge in Phaser together with Socket.io.
-
+The game is that you have to catch all the cheese possible to win the game.
 
 <!-- Contenido de About the Project -->
 
